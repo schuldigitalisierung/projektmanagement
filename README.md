@@ -1,5 +1,7 @@
 # Projektmanagement
-Allgemeine Vorlagen zum Projektmanagement
+Projektsteckbrief-Vorlage zur Planung und der Einführung von Schulservern.
+
+Weitere Informationen finden sich in der zugehörigen Masterarbeit.
 
 ## Lizenz
 
