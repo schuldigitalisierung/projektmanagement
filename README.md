@@ -1,4 +1,4 @@
-# Projektmanagement
+# Projektsteckbrief
 Projektsteckbrief-Vorlage zur Planung und der Einführung von Schulservern.
 
 Weitere Informationen finden sich in der zugehörigen Masterarbeit.
